@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 🎯 I'm a **Junior Front-End Engineer** passionate about building responsive and modern web applications.  
-💡 Currently learning advanced **JavaScript**, **React**, and exploring **Java** and **AI tools like ChatGPT** to boost productivity and learning.  
+💡 Currently learning advanced **JavaScript**, **React**, and exploring **Python**, **Java**, and **AI tools like ChatGPT** to boost productivity and learning.  
 🎓 Background in Management Information Systems and hands-on experience in **E-commerce** and **AI data labeling**.  
 🌍 Based in Egypt 🇪🇬, and I'm always curious to learn more about new web technologies!
 
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
 
 ### Tools:
@@ -47,7 +48,7 @@
 
 ## 📬 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sherif-amer-715b87347/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/sherif-amer-715b87347/)
 - 📧 Sherifsniker@gmail.com
 
 ---
